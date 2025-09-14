@@ -1,0 +1,5 @@
+{
+  "name": "QuickMeal – Pre-Order Food App",
+  "description": "A web and mobile app where corporate employees can pre-book meals (Breakfast, Lunch, Dinner) from a vendor. The vendor can see orders in advance and prepare food efficiently.",
+  "requestFramePermissions": []
+}
